@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_home"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+
+    <item
+        android:id="@+id/item_messages"
+        android:title="@string/messages"
+        android:icon="@drawable/message"/>
+
+    <item
+        android:id="@+id/item_sync"
+        android:title="@string/sync"
+        android:icon="@drawable/sync"/>
+
+    <item
+        android:id="@+id/item_trash"
+        android:title="@string/trash"
+        android:icon="@drawable/trash"/>
+
+    <item
+        android:id="@+id/item_setting"
+        android:title="@string/setting"
+        android:icon="@drawable/setting"/>
+
+    <item android:title="@string/profile">
+        <menu>
+            <item
+                android:id="@+id/item_login"
+                android:title="@string/login"
+                android:icon="@drawable/login"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/item_share"
+                android:title="@string/share"
+                android:icon="@drawable/share"/>
+
+            <item
+                android:id="@+id/item_rete"
+                android:title="@string/rate"
+                android:icon="@drawable/rate"/>
+        </menu>
+    </item>
+
+</menu>

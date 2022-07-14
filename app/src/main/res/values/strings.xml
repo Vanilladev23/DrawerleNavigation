@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DrawerleNavigation</string>
+    <string name="quang_l_m">Quang Lâm</string>
+    <string name="quanglam">\@quanglam</string>
+    <string name="_10000">10000</string>
+    <string name="following">Following</string>
+    <string name="_1000">1000</string>
+    <string name="followings">Followings</string>
+    <string name="home">Home</string>
+    <string name="messages">Messages</string>
+    <string name="sync">Sync</string>
+    <string name="trash">Trash</string>
+    <string name="setting">Setting</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="communicate">Communicate</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_ios">Fragment IOS</string>
+    <string name="fragment_android">Fragment Android</string>
+</resources>
